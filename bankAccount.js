@@ -1,9 +1,3 @@
-// const accountType = {
-//   CaSa: ["Current", "Savings"],
-//   Deposit: ["Fixed", "Recurring"],
-//   Loan: ["House", "Vehicle", "Personal"],
-// };
-
 let accounts = []; //holds all accounts
 let accountId = 1122334400000; //unique accountidnumber
 
